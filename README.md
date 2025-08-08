@@ -19,10 +19,7 @@ A PHP-based web app for user registration, login, and profile management. Uses X
 - User Login with validation.
 - Profile page with personal info display and password change.
 
-## Default Login Credentials
 
-- Email: ntiyisopicasso@icloud.com
-- Password: 12345678
 
 ## Getting Started
 
